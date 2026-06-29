@@ -28,4 +28,4 @@ I spent way too much time adding unnecessary long-press features. Go ahead, try 
 
 Found a bug? Have an idea? Feel free to open an issue or drop some feedback! 
 
-Made with 😁 (and a lot of long-presses).
+Made with ❤️ (and a lot of long-presses).

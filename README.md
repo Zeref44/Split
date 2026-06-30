@@ -6,9 +6,9 @@ Split is a no-nonsense expense sharing app built to keep your friendships intact
 
 ---
 
-## 🤫 Hidden Easter Eggs (Long-Press Everything!)
+## 😁 Hidden Easter Eggs (Long-Press Everything!)
 
-I spent way too much time adding unnecessary long-press features. Go ahead, try them all! 😁
+I spent way too much time adding unnecessary long-press features. Go ahead, try them all! 
 
 * **Split Icon** on the group list screen.
 * **Group Cards** to reveal shortcuts.
